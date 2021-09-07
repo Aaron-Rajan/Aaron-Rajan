@@ -30,7 +30,7 @@
 
 ### My GitHub Stats
 
-[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaron-Rajan&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Rajan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaron-Rajan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Rajan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- Links -->

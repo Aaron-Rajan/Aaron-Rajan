@@ -28,6 +28,12 @@
 
 <br/>
 
+###My GitHub Stats
+
+[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaron-Rajan)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Links -->
 [1]: https://aaron-rajan.github.io/
 [2]: https://www.linkedin.com/in/aaron-rajan/

@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://aaron-rajan.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][1]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][2]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][3]
+[<img align="left" alt="https://aaron-rajan.github.io/" width="22px" src="C:\Users\Hp\Downloads\icons8-globe-48.png" />][1]
+[<img align="left" alt="LinkedIn" width="22px" src="C:\Users\Hp\Downloads\4102586_applications_linkedin_social_social media_icon.svg" />][2]
+[<img align="left" alt="Instagram" width="22px" src="C:\Users\Hp\Downloads\1164349_circle_instagram_logo_media_network_icon.svg" />][3]
 
 <br/>
 

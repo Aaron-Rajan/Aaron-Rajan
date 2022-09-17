@@ -1,10 +1,10 @@
 ### Hey there, I'm Aaron 👋
 
-### I'm a 2nd year computer engineering student, developer, and lifelong learner!
+### I'm a 3rd year computer engineering student, developer, and lifelong learner!
 - 🔭 I’m currently working on a JavaScript Tutorial course
 - :white_check_mark: I recently finished my personal website: https://aaron-rajan.github.io/
 - 🌱 I’m currently learning everything :smile:
-- 🥅 2021 Goals: Continue web development journey by beginning more web projects
+- 🥅 2022 Goals: Apply my programming skills in a professional environment
 - ⚡ Fun fact: I love to play sports and improve at everything I do
 
 ### Connect with me:

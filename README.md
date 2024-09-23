@@ -1,10 +1,10 @@
 ### Hey there, I'm Aaron 👋
 
-### I'm a 4th year computer engineering student, developer, and lifelong learner!
+### I'm a 5th year computer engineering student, developer, and lifelong learner!
 - 🔭 I’m currently working on a website designed using Flask
 - :white_check_mark: I recently finished my personal website: https://aaron-rajan.github.io/
 - 🌱 I’m currently learning everything :smile:
-- 🥅 2023 Goals: Apply my programming skills in a professional environment
+- 🥅 2024 Goals: Apply my programming skills in a professional environment
 - ⚡ Fun fact: I love to play sports and improve at everything I do
 
 ### Connect with me:

@@ -31,7 +31,7 @@
 
 ### My GitHub Stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aaron-Rajan&theme=tokyonight&show_icons=true&hide=prs&include_all_commits=true&hide_rank=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Rajan&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=1800" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aaron-Rajan&theme=tokyonight&show_icons=true&hide=prs&hide_rank=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Rajan&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=1800" />
 
 
 <!-- Links -->
